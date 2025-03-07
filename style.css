@@ -1,0 +1,16 @@
+.head1{
+    color: blueviolet;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-style: wavy;
+    font-size: 50px;
+    font-style: italic;
+    word-spacing: 120px;
+    font-family: Verdana;
+}
+.para{
+    font-weight: bold;
+    word-spacing: 30px;
+    letter-spacing: 12px;
+    line-height: 30px;
+}
